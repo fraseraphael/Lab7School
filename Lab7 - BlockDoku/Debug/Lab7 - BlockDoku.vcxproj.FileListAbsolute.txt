@@ -1,0 +1,3 @@
+C:\Users\rapha\source\repos\Lab7 - BlockDoku\Debug\Lab7 - BlockDoku.exe
+C:\Users\rapha\source\repos\Lab7 - BlockDoku\Debug\Lab7 - BlockDoku.pdb
+C:\Users\Raphaël\source\repos\Lab7 - BlockDoku\Debug\Lab7 - BlockDoku.exe
